@@ -1,4 +1,4 @@
-## Execute the below commands to work with Github. Make sure you have git installed on your computer. We will be working with the master branch only.
+### Execute the below commands to work with Github. Make sure you have git installed on your computer. We will be working with the master branch only.
 
 ### Set up a local repository on your computer
 ```
