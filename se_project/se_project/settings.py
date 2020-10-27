@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'users.apps.UsersConfig',
     'book_portal.apps.BookPortalConfig',
     'crispy_forms',
+    'rest_framework',
+    'classifier',
 ]
 
 MIDDLEWARE = [
